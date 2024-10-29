@@ -157,6 +157,7 @@
 .navbar-light .navbar-nav .nav-item.active .nav-link {
     color:white;
     background:#015fc9;
+    border-radius: 40px;
 }
 
 @media (max-width: 991px) {
